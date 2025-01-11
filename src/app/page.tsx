@@ -1,8 +1,8 @@
-import AboutUs from "@/components/AboutUs";
-import Activities from "@/components/Activities";
-import Footer from "@/components/Footer";
-import Hero from "@/components/Hero";
-import News from "@/components/News";
+import AboutUs from "../components/AboutUs";
+import Activities from "../components/Activities";
+import Footer from "../components/Footer";
+import Hero from "../components/Hero";
+import News from "../components/News";
 
 
 
