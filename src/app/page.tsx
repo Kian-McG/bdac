@@ -1,3 +1,4 @@
+
 import AboutUs from "@/components/AboutUs";
 import Activities from "@/components/Activities";
 import Footer from "@/components/Footer";
