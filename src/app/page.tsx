@@ -1,8 +1,8 @@
-import AboutUs from "./AboutUs";
-import Activities from "./Activities";
-import Footer from "./Footer";
-import Hero from "./Hero";
-import News from "./News";
+import AboutUs from "../components/aboutus";
+import Activities from "../components/activities";
+import Footer from "../components/footer";
+import Hero from "../components/hero";
+import News from "../components/news";
 
 
 const Home = () => {
