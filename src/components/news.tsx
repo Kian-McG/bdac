@@ -59,7 +59,7 @@ const News = () => {
         className="grid grid-cols-1 md:grid-cols-3 gap-4 py-16 container"
         initial={{ opacity: 0, x: 20 }}
         whileInView={{ opacity: 1, x: 0 }}
-        viewport={!isLarge ? { amount: 0.1 } : { amount: 0.5 }}
+        viewport={!isLarge ? { amount: 0.1 } : { amount: 0.3 }}
         transition={{ duration: 1 }}
       >
         <div className="col-span-1 md:col-span-2">
